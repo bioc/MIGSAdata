@@ -1,6 +1,6 @@
 Package: MIGSAdata
 Title: MIGSA vignette data
-Version: 1.25.0
+Version: 1.25.1
 Author: Juan C. Rodriguez, Cristobal Fresno, Andrea S. Llera and Elmer
         A. Fernandez
 Maintainer: Juan C. Rodriguez <jcrodriguez@bdmg.com.ar>
@@ -14,3 +14,4 @@ License: GPL (>= 2)
 Depends: R (>= 3.4)
 Suggests: BiocGenerics
 RoxygenNote: 5.0.1
+PackageStatus: Deprecated
